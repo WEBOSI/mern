@@ -68,8 +68,7 @@ $ npm run deploy:heroku
 # Dependencies(tech-stacks)
 Client-side | Server-side
 --- | ---
-axios: ^0.15.3 | bcrypt-nodejs: ^0.0.3
-body-parser: ^1.15.2
+axios: ^0.15.3 | ody-parser: ^1.15.2
 react: ^16.2.0 | dotenv: ^2.0.0
 react-dom: ^16.2.0 | express: ^4.14.0
 react-router-dom: ^4.2.2 | mongoose: ^4.7.4
